@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Tharuka Premasiri 👋</h1>
-<h3 align="center">Full-Stack Software Engineer | 2+ Years Experience</h3>
+<h3 align="center">Full-Stack Software Engineer | 4+ Years Experience</h3>
 
 <p align="center">
   <strong>Building scalable backend architectures and data-driven web ecosystems.</strong>
