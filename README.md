@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Tharuka Premasiri 👋</h1>
-<h3 align="center">Full-Stack Software Engineer | 4+ Years Experience</h3>
+<h3 align="center">AI & Backend Software Engineer | RAG Systems · Scalable APIs · Generative AI</h3>
 
 <p align="center">
-  <strong>Building scalable backend architectures and data-driven web ecosystems.</strong>
+  <strong>Architecting production-grade RAG pipelines and enterprise backend systems that turn unstructured data into intelligent, actionable outcomes.</strong>
 </p>
 
 <p align="center">
@@ -23,12 +23,13 @@
 
 ### 👨‍💻 Professional Profile
 
-With **2+ years of professional experience** in the software industry, I specialize in bridging the gap between complex data logic and user-centric applications. My journey has evolved from academic research in **Semantic Web Technologies** to delivering robust, production-grade solutions in fast-paced environments.
+Backend & AI Engineer at **McLarens Group**, specializing in **Retrieval-Augmented Generation (RAG) architecture**, semantic search, and enterprise-grade backend systems. I own the full lifecycle of intelligent systems — from database and pipeline design to containerized production deployment.
 
-* 🏗️ **Core Expertise:** Designing scalable RESTful APIs, microservices, and reactive frontend architectures.
-* ☁️ **Cloud Strategy:** Currently deepening my expertise in **Microsoft Azure** to optimize deployment pipelines and cloud-native scaling.
-* 🧠 **Specialized Knowledge:** Expert-level understanding of **Ontology-based systems** and **Explainable AI (XAI)**, enabling the development of transparent, data-rich applications.
-* ✍️ **Advocacy:** I am a frequent technical writer on [Medium](https://medium.com/@tharukaapremasiri), where I simplify complex backend and AI concepts for the community.
+* 🧠 **AI/LLM Systems:** Building RAG pipelines with LangChain, Ollama, and OpenAI models, backed by vector search (PGVector, sentence-transformers) for high-precision semantic retrieval.
+* 🏗️ **Backend Architecture:** Designing secure, scalable RESTful APIs and microservices in Python (FastAPI/Flask), Node.js (Express), and PHP (OOP/Laravel) for financial and logistics-critical enterprise systems.
+* 🗄️ **Data Engineering:** Managing relational and vector database schemas (PostgreSQL, PGVector, MySQL, MongoDB) with Alembic-driven, zero-downtime migrations.
+* ☁️ **DevOps & Cloud:** Containerizing and deploying services with Docker and Linux, with growing expertise in Azure for cloud-native scaling.
+* 🏆 **Impact:** MD's Award recipient (McLarens Group) for high-impact backend optimization.
 
 ---
 
@@ -36,11 +37,19 @@ With **2+ years of professional experience** in the software industry, I special
 
 | Category | Technologies |
 | :--- | :--- |
+| **AI / LLM** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-| **Cloud & Tools** | ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PGVector](https://img.shields.io/badge/-PGVector-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 🚀 Featured Projects
+
+* **[McLarens Intelligent Agent (MIA)](https://github.com/tharukapremasiri)** — Enterprise RAG document intelligence platform built with FastAPI, LangChain, Ollama/OpenAI, and PGVector, featuring hybrid retrieval and cross-encoder reranking over enterprise document stores.
+* **[Pebble AI](https://github.com/tharukapremasiri/Pebble-AI)** — Persistent RAG knowledge assistant with sub-second semantic search (PGVector + HuggingFace embeddings) and multi-session conversational memory via PostgreSQL JSONB, fully containerized with Docker Compose.
+* **[ChoiceGenie](https://github.com/tharukapremasiri/ChoiceGenie)** — Ontology-based hybrid recommender combining RDF/OWL semantic reasoning with ML classifiers (TF-IDF, KNN) and an explainable AI decision-tracing layer.
 
 ---
 
@@ -55,7 +64,6 @@ With **2+ years of professional experience** in the software industry, I special
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharukapremasiri&theme=tokyonight"/>
 </p>
 
-
 ---
 
 ### 🤝 Connect with Me
@@ -67,6 +75,6 @@ With **2+ years of professional experience** in the software industry, I special
 <a href="https://instagram.com/tharukapremasiri" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-<p align="center"> 
-  <em>"Transforming complex data logic into seamless user experiences."</em>
+<p align="center">
+  <em>"Turning unstructured data into intelligent, production-ready systems."</em>
 </p>
